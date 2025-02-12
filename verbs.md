@@ -1,6 +1,11 @@
+# Table of Contents
+
+- [i Common Verbs](#i-common)
+- [i Difficult Verbs](#i-difficult)
 
 ---
-# i common
+
+# i Common Verbs
 
 | **Verb**             | **Meaning** (Infinitive)               | **Second Form** | **Meaning** (Past Simple)                | **Third Form** | **Meaning** (Past Participle)             |
 |----------------------|----------------------------------------|-----------------|------------------------------------------|----------------|-------------------------------------------|
@@ -24,9 +29,7 @@
 
 ---
 
-
----
-# i dificult
+# i Difficult Verbs
 
 | **Verb**             | **Meaning (2-3 Words in Roman Urdu)** | **Second Form** | **Meaning (Past Simple) in Roman Urdu** | **Third Form** | **Meaning (Past Participle) in Roman Urdu** |
 |----------------------|--------------------------------------|-----------------|----------------------------------------|----------------|--------------------------------------------|
