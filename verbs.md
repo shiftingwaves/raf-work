@@ -1,7 +1,7 @@
 # Table of Contents
 
-- [i Common Verbs](#i-common)
-- [i Difficult Verbs](#i-difficult)
+- [i Common Verbs](#i-common-verbs)
+- [i Difficult Verbs](#i-difficult-verbs)
 
 ---
 
