@@ -4,6 +4,7 @@
 
 - [Irregular Verbs from "verb g" Table](#irregular-verbs-from-verb-g-table)
 - [Irregular Verbs from "verb h" Table](#irregular-verbs-from-verb-h-table)
+- [Difficult Verbs from "g" and "h" Table](#difficult-verbs-from-g-and-h-table)
 - [i Common Verbs](#i-common-verbs)
 - [i Difficult Verbs](#i-difficult-verbs)
 
@@ -30,6 +31,33 @@
 | Hear             | Sunna                                  | Heard           | Sun liya                                 | Heard          | Sun liya                                  |
 | Hide             | Chupna                                  | Hid             | Chhupa                                    | Hidden         | Chhupa                                    |
 
+
+## Difficult Verbs from "g" and "h" Table
+
+
+
+
+
+| **Verb**   | **Meaning (Infinitive)**              | **Second Form** | **Meaning (Past Simple)**            | **Third Form** | **Meaning (Past Participle)**            |
+|------------|---------------------------------------|-----------------|--------------------------------------|----------------|------------------------------------------|
+| Gallop     | Ghoda jaisa daurna                    | Galloped        | Ghode ki daud lagayi                 | Galloped       | Ghode ki daud lagayi                    |
+| Gasp       | Hampna                                 | Gasped          | Hamp kiya                            | Gasped         | Hamp kiya                               |
+| Garnish    | Sajana                                 | Garnished       | Sajaya                               | Garnished      | Sajaya                                  |
+| Glitter    | Chamakna                               | Glittered       | Chamak liya                          | Glittered      | Chamak liya                             |
+| Glorify    | Bohat zyada tareef karna              | Glorified       | Shan-o-shaukat di                    | Glorified      | Shan-o-shaukat di                       |
+| Grill      | Dena                                   | Grilled         | Grilled kiya                         | Grilled        | Grilled kiya                            |
+| Hoax       | Chakma Dena                            | Hoaxed          | Chakma diya                          | Hoaxed         | Chakma diya                             |
+| Hiss       | Seeti maarna                           | Hissed          | Seeti ki awaaz nikaali               | Hissed         | Seeti ki awaaz nikaali                  |
+| Hamper     | Rukavat Dalna                          | Hampered        | Rukavat dali                         | Hampered       | Rukavat dali                             |
+| Harmonize  | Aapas mein milana                      | Harmonized      | Milaya                               | Harmonized     | Milaya                                   |
+| Harness    | Istamaal Karna                         | Harnessed       | Istamaal kiya                        | Harnessed      | Istamaal kiya                           |
+| Hasten     | Jaldi Karna                            | Hastened        | Jaldi kiya                           | Hastened       | Jaldi kiya                               |
+| Hush       | Chup Karana                            | Hushed          | Chup kar diya                        | Hushed         | Chup kar diya                            |
+| Hustle     | Hulchul Karna                          | Hustled         | Hulchul kiya                         | Hustled        | Hulchul kiya                            |
+| Horrify    | Khaufzada Karna                        | Horrified       | Khauf diya                           | Horrified      | Khauf diya                               |
+| Hum        | Gungunana                              | Hummed          | Gungunaya                            | Hummed         | Gungunaya                                |
+| Humiliate  | Zaleel Karna                           | Humiliated      | Zaleel kiya                          | Humiliated     | Zaleel kiya                             |
+| Hail       | Ole Padna                               | Hailed          | Hail kiya                            | Hailed         | Hail kiya                                |
 
 
 ---
