@@ -1,4 +1,6 @@
-Bilkul! Main tumhein **adverbs of manner** ki ek detailed list de raha hoon jo tum apni daily life mein frequently use kar sakte ho. In adverbs se tum apne sentences ko zyada expressive aur fluent bana sakte ho. 
+- 
+### **[100 Common Adverbs of Manner](#100-common-adverbs-of-manner)**
+
 
 ### **100 Common Adverbs of Manner:**
 
