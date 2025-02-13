@@ -1,7 +1,36 @@
 # Table of Contents
 
+# Table of Contents
+
+- [Irregular Verbs from "verb g" Table](#irregular-verbs-from-verb-g-table)
+- [Irregular Verbs from "verb h" Table](#irregular-verbs-from-verb-h-table)
 - [i Common Verbs](#i-common-verbs)
 - [i Difficult Verbs](#i-difficult-verbs)
+
+---
+
+### **Irregular Verbs from "verb g" Table**
+
+| **Verb**         | **Meaning** (Infinitive)               | **Second Form** | **Meaning** (Past Simple)                | **Third Form** | **Meaning** (Past Participle)             |
+|------------------|----------------------------------------|-----------------|------------------------------------------|----------------|-------------------------------------------|
+| Get              | Haasil karna                           | Got             | Haasil kiya                              | Gotten         | Haasil kiya                               |
+| Go               | Jaana                                  | Went            | Gaya                                     | Gone           | Gaya                                      |
+| Give             | Dena                                   | Gave            | Diya                                     | Given          | Diya                                      |
+
+
+
+### **Irregular Verbs from "verb h" Table**
+
+| **Verb**         | **Meaning** (Infinitive)               | **Second Form** | **Meaning** (Past Simple)                | **Third Form** | **Meaning** (Past Participle)             |
+|------------------|----------------------------------------|-----------------|------------------------------------------|----------------|-------------------------------------------|
+| Hang             | Bhaansi ya Latakna                     | Hung            | Latka                                    | Hung           | Latka                                     |
+| Harm             | Nuksaan                                | Harmed          | Nuqsaan kiya                            | Harmed         | Nuqsaan kiya                             |
+| Heal             | Shifa                                  | Healed          | Shifa di                                 | Healed         | Shifa di                                  |
+| Have             | Hona                                   | Had             | Hua                                      | Had            | Hua                                       |
+| Hear             | Sunna                                  | Heard           | Sun liya                                 | Heard          | Sun liya                                  |
+| Hide             | Chupna                                  | Hid             | Chhupa                                    | Hidden         | Chhupa                                    |
+
+
 
 ---
 
